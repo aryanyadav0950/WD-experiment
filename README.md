@@ -13,7 +13,7 @@ These experiments include homepage creation, login page, catalogue page, cart pa
 - Left frame: Department links (CSE, ECE, EEE, CIVIL)
 - Right frame: Displays description/content
 
----
+--- 
 
 ### **2️⃣ Experiment 2 — Login Page**
 - Login form with:
