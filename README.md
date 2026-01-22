@@ -1,4 +1,4 @@
-# 📘 Web Designing Lab – 10 Experiments (HTML, CSS, JS)   
+# 📘 Web Designing Lab – 10 Experiments (HTML, CSS, JS)    
 
 This repository contains **10 Web Designing lab experiments** involving **HTML**, **CSS**, and **JavaScript**.  
 These experiments include homepage creation, login page, catalogue page, cart page, registration form, JS validation, and CSS designing.
