@@ -8,7 +8,7 @@ These experiments include homepage creation, login page, catalogue page, cart pa
 ## 📑 List of Experiments      
    
 ### **1️⃣ Experiment 1 — Homepage Design with Frames**
-- Static homepage containing **three frames**
+- Static homepage containing **three frames** 
 - Top frame: Logo + navigation links (Home, Login, Registration, Catalogue, Cart)
 - Left frame: Department links (CSE, ECE, EEE, CIVIL)
 - Right frame: Displays description/content
